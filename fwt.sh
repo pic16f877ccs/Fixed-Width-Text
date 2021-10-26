@@ -14,3 +14,5 @@ fwt () {
        echo "No input file specified!";
    fi
 }
+
+fwt "$1"
